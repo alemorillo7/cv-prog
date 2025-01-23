@@ -145,7 +145,7 @@ const OtrosDatos = () => {
   };
 
   const handleContactClick = () => {
-    window.location.href = "#contacto";
+window.location.href = "https://wa.me/+543512510118";
   };
 
   return (

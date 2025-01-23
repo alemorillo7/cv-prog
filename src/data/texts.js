@@ -1,0 +1,136 @@
+// src/data/texts.js
+export const texts = {
+  es: {
+    header: {
+      title: "Alejandro Morillo",
+      subtitle: "Desarrollador Full Stack | Especializado en React",
+      downloadCV: "Descargar CV",
+    },
+    navbar: {
+      inicio: "Inicio",
+      proyectos: "Proyectos",
+      experiencia: "Experiencia",
+      habilidades: "Habilidades",
+      otrosDatos: "Otros Datos",
+    },
+    habilidades: {
+      title: "Habilidades",
+      gitGithub: "Git/Github",
+      react: "React",
+      javascript: "JavaScript",
+      htmlCss: "HTML/CSS/Bootstrap",
+      javaSpringboot: "Java/Springboot",
+      php: "PHP",
+      mysql: "MySQL",
+    },
+    experiencia: {
+      title: "Experiencia Laboral",
+      empresa1: "Empresa Efeuno Software Factory",
+      periodo1: "Nov. 2023 - Dic. 2023 (Freelance)",
+      descripcion1:
+        "Fui parte de un proyecto front-end (App Emergencia) utilizando React, CSS, JavaScript y HTML.",
+      empresa2: "Empresa Egg Cooperación",
+      periodo2: "Mayo 2024 - Julio 2024",
+      descripcion2:
+        "Desarrollo en equipo de una Aplicación web full-stack utilizando Git-Github, HTML, CSS, JavaScript, Java, Java POO, MySQL y SpringBoot.",
+      empresa3: "Empresa Efeuno Software Factory",
+      periodo3: "Feb. 2024 - Sep. 2024 (Freelance)",
+      descripcion3:
+        "Fui parte de un proyecto front-end (Rast-Movil) utilizando HTML, JavaScript y CSS. Mantenimiento a un sistema de facturación con PHP, HTML, CSS y JavaScript. Actualmente estoy en desarrollo de una app con React.",
+    },
+    proyectos: {
+      title: "Proyectos",
+      proyecto1: "APP BARBERIA",
+      descripcion1: "Es una app de barbería para administracion de turnos.",
+      proyecto2: "APP Almacén de Productos",
+      descripcion2:
+        "Es una app de actividad beneficiaria para control de bolsón de alimentos.",
+      proyecto3: "Pagina web rastreo satelital",
+      descripcion3: "Es una pagina web que ofrece diferentes servicios varios.",
+    },
+    otrosDatos: {
+      title: "Otros Datos",
+      otrosDatos: "Otros Datos",
+      idiomas: "Idiomas",
+      certificacion: "Certificación",
+      desarrolloWeb: "Desarrollo Web",
+      frontEnd: "Front-End",
+      backEnd: "Back-End",
+      español: "Español: Nativo",
+      ingles: "Inglés: Básico (cursando)",
+      certificacionFullStack: "Certificación Full Stack",
+      certificacionFrontEnd: "Certificación Front End",
+      certificacionIngles: "Certificación Inglés Básico",
+      contactame: "Contáctame",
+    },
+    footer: {
+      copyright: "© 2025 Alejandro Morillo. Todos los derechos reservados.",
+    },
+  },
+  en: {
+    header: {
+      title: "Alejandro Morillo",
+      subtitle: "Full Stack Developer | Specialized in React",
+      downloadCV: "Download CV",
+    },
+    navbar: {
+      inicio: "Home",
+      proyectos: "Projects",
+      experiencia: "Experience",
+      habilidades: "Skills",
+      otrosDatos: "Other Data",
+    },
+    habilidades: {
+      title: "Skills",
+      gitGithub: "Git/Github",
+      react: "React",
+      javascript: "JavaScript",
+      htmlCss: "HTML/CSS/Bootstrap",
+      javaSpringboot: "Java/Springboot",
+      php: "PHP",
+      mysql: "MySQL",
+    },
+    experiencia: {
+      title: "Work Experience",
+      empresa1: "Company Efeuno Software Factory",
+      periodo1: "Nov. 2023 - Dec. 2023 (Freelance)",
+      descripcion1:
+        "I was part of a front-end project (Emergency App) using React, CSS, JavaScript, and HTML.",
+      empresa2: "Company Egg Cooperación",
+      periodo2: "May 2024 - July 2024",
+      descripcion2:
+        "Team development of a full-stack web application using Git-Github, HTML, CSS, JavaScript, Java, Java OOP, MySQL, and SpringBoot.",
+      empresa3: "Company Efeuno Software Factory",
+      periodo3: "Feb. 2024 - Sep. 2024 (Freelance)",
+      descripcion3:
+        "I was part of a front-end project (Rast-Movil) using HTML, JavaScript, and CSS. Maintenance of a billing system with PHP, HTML, CSS, and JavaScript. Currently developing an app with React.",
+    },
+    proyectos: {
+      title: "Projects",
+      proyecto1: "BARBERSHOP APP",
+      descripcion1: "It's a barbershop app for administracion of appointments.",
+      proyecto2: "PRODUCT WAREHOUSE APP",
+      descripcion2: "It's a beneficiary activity app for food basket control.",
+      proyecto3: "Satellite Tracking Web Page",
+      descripcion3: "It's a web page that offers different services.",
+    },
+    otrosDatos: {
+      title: "Other Data",
+      otrosDatos: "Other Data",
+      idiomas: "Languages",
+      certificacion: "Certification",
+      desarrolloWeb: "Web Development",
+      frontEnd: "Front-End",
+      backEnd: "Back-End",
+      español: "Spanish: Native",
+      ingles: "English: Basic (in progress)",
+      certificacionFullStack: "Full Stack Certification",
+      certificacionFrontEnd: "Front End Certification",
+      certificacionIngles: "Basic English Certification",
+      contactame: "Contact Me",
+    },
+    footer: {
+      copyright: "© 2025 Alejandro Morillo. All rights reserved.",
+    },
+  },
+};

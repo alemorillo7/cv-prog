@@ -157,7 +157,7 @@ const Header = () => {
           </BotonCV>
           <RedesSociales theme={{ isDarkMode }}>
             <a
-              href="https://linkedin.com/alemorillo7"
+              href="https://www.linkedin.com/in/alemorillo7"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -172,7 +172,7 @@ const Header = () => {
               <FaGithub />
               <span>GitHub</span>
             </a>
-            <a href="mailto:alemorillo7@gmail.com">
+            <a href="mailto:alemorillocba7@gmail.com">
               <FaEnvelope />
               <span>Email</span>
             </a>

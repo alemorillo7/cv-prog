@@ -94,7 +94,7 @@ const Habilidades = () => {
                   animate={controls}
                   transition={{ duration: 1.5, ease: "easeOut" }}
                 />
-                <TiempoExperiencia>{language === "es" ? "1 año" : "1 year"}</TiempoExperiencia>
+                <TiempoExperiencia>{language === "es" ? "2 años" : "2 years"}</TiempoExperiencia>
               </BarraProgreso>
             </HabilidadItem>
             <HabilidadItem>
@@ -106,7 +106,7 @@ const Habilidades = () => {
                   animate={controls}
                   transition={{ duration: 1.5, ease: "easeOut" }}
                 />
-                <TiempoExperiencia>{language === "es" ? "1 año" : "1 year"}</TiempoExperiencia>
+                <TiempoExperiencia>{language === "es" ? "2 años" : "2 years"}</TiempoExperiencia>
               </BarraProgreso>
             </HabilidadItem>
             <HabilidadItem>
@@ -118,7 +118,7 @@ const Habilidades = () => {
                   animate={controls}
                   transition={{ duration: 1.5, ease: "easeOut" }}
                 />
-                <TiempoExperiencia>{language === "es" ? "1.5 años" : "1.5 years"}</TiempoExperiencia>
+                <TiempoExperiencia>{language === "es" ? "2 años" : "2 years"}</TiempoExperiencia>
               </BarraProgreso>
             </HabilidadItem>
             <HabilidadItem>
@@ -154,7 +154,7 @@ const Habilidades = () => {
                   animate={controls}
                   transition={{ duration: 1.5, ease: "easeOut" }}
                 />
-                <TiempoExperiencia>{language === "es" ? "1 año" : "1 year"}</TiempoExperiencia>
+                <TiempoExperiencia>{language === "es" ? "1.5 años" : "1.5 years"}</TiempoExperiencia>
               </BarraProgreso>
             </HabilidadItem>
             <HabilidadItem>
@@ -166,7 +166,7 @@ const Habilidades = () => {
                   animate={controls}
                   transition={{ duration: 1.5, ease: "easeOut" }}
                 />
-                <TiempoExperiencia>{language === "es" ? "1.5 años" : "1.5 years"}</TiempoExperiencia>
+                <TiempoExperiencia>{language === "es" ? "2 años" : "2 years"}</TiempoExperiencia>
               </BarraProgreso>
             </HabilidadItem>
           </HabilidadesGrid>
